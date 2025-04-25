@@ -8,7 +8,7 @@ sns.set(style="whitegrid")
 plt.rcParams["figure.figsize"] = (10, 6)
 
 # Load the cleaned dataset
-df = pd.read_csv('task1/titanic_cleaned.csv')
+df = pd.read_csv('titanic_cleaned.csv')
 
 # Step 1: Summary Statistics
 print("Dataset Info:")

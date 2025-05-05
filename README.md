@@ -12,7 +12,7 @@ Spot trends, outliers, and correlations
 
 Guide feature selection and data preprocessing steps
 
-how its done
+📌 Explanation of Each Step
 
 Import libraries: We import Pandas for data handling, Seaborn and Matplotlib for visualization, and MinMaxScaler for normalization.
 
